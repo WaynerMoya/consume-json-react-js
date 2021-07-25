@@ -23,7 +23,7 @@ const User = () => {
 
     return (
         <>  
-            <h2 style={{ marginTop: 20 }}>Users</h2>
+            < h2 style={{ marginTop : 20 }}> Users </h2>
             <UserList users={users} />
         </>
     )
